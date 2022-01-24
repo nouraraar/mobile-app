@@ -7,4 +7,5 @@ After confirming, the number of your choice will appear below. The game does not
 
 ![Capture](https://user-images.githubusercontent.com/80988838/150855066-c1c34726-7b0e-45ca-ae70-de4b993cd906.PNG)
 ![Capture](https://user-images.githubusercontent.com/80988838/150854855-f53b2118-19c1-40cc-9541-4a70a24d301e.PNG)
+![Capture](https://user-images.githubusercontent.com/80988838/150855216-a313a20a-23dd-48df-9c4e-afd0cb1caf71.PNG)
 
